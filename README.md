@@ -59,6 +59,11 @@ Ruby
 *   [Pragmatic studio Rails course $$](http://pragmaticstudio.com/rails)
 *   [One month Rails $$](https://onemonth.com/courses/one-month-rails)
 
+C/C++
+*   [Learn C++](http://www.learncpp.com/)
+*   [C++ Primer, 5th Edition](http://it-ebooks.info/book/1256/)
+
+
 Data
 *   [Code School - Try R](https://www.codeschool.com/courses/try-r)
 
