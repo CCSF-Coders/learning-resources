@@ -36,6 +36,7 @@ Python
 *   [Coursera Python](https://www.coursera.org/course/interactivepython)
 *   [Codecademy is now teaching Python!](http://www.codecademy.com/tracks/python)
 *   [CodingBat Python practice problems](http://codingbat.com/python)
+*   [NewCoder.io](http://newcoder.io/) - tutorials (data viz, APIs, web scraping, etc) 
 
 Ruby
 *   [Codecademy - Ruby](http://www.codecademy.com/tracks/ruby)
