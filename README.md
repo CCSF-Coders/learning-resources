@@ -29,6 +29,12 @@ Java
 *   [Head First Java](http://www.headfirstlabs.com/books/hfjava/)
 *   [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
 *   [CodingBat Java practice problems](http://codingbat.com/java)
+*   Java Style Guidelines
+  * original [Coding Style Conventions for Java](http://www.oracle.com/technetwork/java/codeconvtoc-136057.html) from Sun
+  * alternate [Java Programming Style Guide](http://www.javaranch.com/style.jsp) from JavaRanch
+  * [Google Java Style](https://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
+*   [Secure Coding Guidelines for Java SE](Secure Coding Guidelines for Java SE)
+
 
 Python
 *   [Python Introduction - Google's Python Class](http://code.google.com/edu/languages/google-python-class/introduction.html)
