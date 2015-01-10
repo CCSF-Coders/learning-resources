@@ -72,7 +72,7 @@ C/C++
 *   [Google's C++ Class](https://developers.google.com/edu/c++/)
 *   MIT Open Courseware C/C++ classes:
   * [6.087 Practical Programming in C](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/) (taught January IAP 2010)
-  * [6.088 Introduction to C Memory Management and C++ Object-Oriented Prog.](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/) (taught January IAP 2010)
+  * [6.088 Intro to C Memory Management and C++ Object-Oriented Prog.](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/) (taught January IAP 2010)
   * [6.096 Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (taught January IAP 2011)
   * [6.S096 Introduction to C and C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-introduction-to-c-and-c-january-iap-2013) (taught January IAP 2013)
   * [6.S096 Effective Programming in C and C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/) (taught January IAP 2014)
