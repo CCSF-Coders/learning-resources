@@ -89,12 +89,17 @@ Misc
 *   [Linux Fundamentals, Part 1](http://www.funtoo.org/wiki/Linux_Fundamentals,_Part_1)
 *   [VIM Adventures](http://vim-adventures.com/)
 *   [Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets)
+*   [Meetup.com](http://www.meetup.com/find/events/tech/?allMeetups=false&radius=25&userFreeform=San+Francisco%2C+CA&mcName=San+Francisco%2C+CA) (link goes to find-Tech-meetups-around-SF-by-date page, instead of main page)
 *   [Stack Overflow](http://stackoverflow.com/)
 *   [CodeEval - Evaluations Made Easy](http://codeeval.com/)
 
 Schools
+*   [Coursera](https://www.coursera.org/courses)
+*   MIT OpenCourseWare
+  * [all Electrical Engineering and Computer Science courses](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
+  * [video lectures for 6.00 Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/)
 *   [Khan Academy](http://www.khanacademy.org/#computer-science)
 *   [Learn Web Design, Web Development, and iOS Development](http://teamtreehouse.com/)
 *   [Codecademy.com](http://www.codecademy.com/#!/exercise/0)
 *   [Stanford School of Engineering](http://see.stanford.edu/see/courseinfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111)
-*   [MIT OpenCourseWare](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/)
+
