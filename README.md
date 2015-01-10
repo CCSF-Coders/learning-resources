@@ -78,6 +78,7 @@ C/C++
   * [6.S096 Effective Programming in C and C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/) (taught January IAP 2014)
 *   [Learn C++](http://www.learncpp.com/)
 *   [C++ Primer, 5th Edition](http://it-ebooks.info/book/1256/)
+*   [Bay Area C++ Meetup](http://www.meetup.com/SF-Bay-Area-Cpp/)
 
 
 Data
