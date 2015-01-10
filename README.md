@@ -33,7 +33,7 @@ Java
   * original [Coding Style Conventions for Java](http://www.oracle.com/technetwork/java/codeconvtoc-136057.html) from Sun
   * alternate [Java Programming Style Guide](http://www.javaranch.com/style.jsp) from JavaRanch
   * [Google Java Style](https://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
-*   [Secure Coding Guidelines for Java SE](Secure Coding Guidelines for Java SE)
+*   [Secure Coding Guidelines for Java SE](http://www.oracle.com/technetwork/java/seccodeguide-139067.html)
 
 
 Python
