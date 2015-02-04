@@ -104,7 +104,7 @@ Schools
 *   [Stanford School of Engineering](http://see.stanford.edu/see/courseinfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111)
 
 Interview Practice
-* [Javascript](http://www.toptal.com/javascript/interview-questions) Toptal interview questions.
+* [Javascript](http://www.toptal.com/javascript/interview-questions) Long list of interview questions with answers.
 * [Java](http://www.javacodegeeks.com/2014/04/java-interview-questions-and-answers.html) "Ultimate" list of Java interview questions and answers.
 * [Python](http://www.careerride.com/python-interview-questions.aspx) 50 Python interview questions and answers.
 * [C/C++](http://www.indiabix.com/technical/c/) Hundreds of C/C++ interview questions and answers.
