@@ -1,7 +1,7 @@
 learning-resources
 ==================
 
-General Programming
+#####General Programming
 *   [Learn to Program, by Chris Pine](http://pine.fm/LearnToProgram/)&nbsp;-&nbsp;[http://it-ebooks.info/<wbr>book/36/](http://it-ebooks.info/book/36/)
 *   [5 Ways To Learn Code From The Comfort Of Your Own Browser | TechCrunch](http://techcrunch.com/2012/08/21/5-ways-to-learn-code-from-the-comfort-of-your-own-browser)
 *   [Also, Why I'm learning to code](http://also.roybahat.com/post/11574823708/why-im-learning-to-code)
@@ -13,19 +13,19 @@ General Programming
 *   [Developing Apps for iOS (SD)](http://itunes.apple.com/itunes-u/developing-apps-for-ios-sd/id395631522)
 *   [Computer Science: Free Courses](http://www.openculture.com/computer_science_free_courses)
 
-Git
+#####Git
 *   [Code School - Try Git](http://www.codeschool.com/courses/try-git)
 *   [Pro Git](http://git-scm.com/book)
 *   [Atlassian Git Tutorials](https://www.atlassian.com/git)
 
-HTML/CSS
+#####HTML/CSS
 *   [35 Useful CSS3 Tutorials To Boost Your Skills](http://www.tripwiremagazine.com/2012/06/css3-tutorials.html)
 *   [Project Euler](http://projecteuler.net/)
 *   [W3Schools Online Web Tutorials](http://www.w3schools.com/)
 *   [BuildingWebApps.com](http://www.buildingwebapps.com/)
 *   [Build Cross Browser Extensions in Minutes - Crossrider.com](http://crossrider.com/)
 
-Java
+#####Java
 *   [Head First Java](http://www.headfirstlabs.com/books/hfjava/)
 *   [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
 *   [CodingBat Java practice problems](http://codingbat.com/java)
@@ -35,8 +35,7 @@ Java
   * [Google Java Style](https://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
 *   [Secure Coding Guidelines for Java SE](http://www.oracle.com/technetwork/java/seccodeguide-139067.html)
 
-
-Python
+#####Python
 *   [Python Introduction - Google's Python Class](http://code.google.com/edu/languages/google-python-class/introduction.html)
 *   [Learn Python with Games](http://www.checkio.org/)
 *   [Coursera Python](https://www.coursera.org/course/interactivepython)
@@ -44,7 +43,7 @@ Python
 *   [CodingBat Python practice problems](http://codingbat.com/python)
 *   [NewCoder.io](http://newcoder.io/) - tutorials (data viz, APIs, web scraping, etc) 
 
-Ruby
+#####Ruby
 *   [Codecademy - Ruby](http://www.codecademy.com/tracks/ruby)
 *   [Dev bootcamp - by bullets](http://devbootcampbullets.tumblr.com/)
 *   [Ruby in 100 minutes - Jumpstart Lab Curriculum](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html)
@@ -66,7 +65,7 @@ Ruby
 *   [Pragmatic studio Rails course $$](http://pragmaticstudio.com/rails)
 *   [One month Rails $$](https://onemonth.com/courses/one-month-rails)
 
-C/C++
+#####C/C++
 *   [C/C++ Reference](http://en.cppreference.com/w/)
 *   [Learn C The Hard Way](http://c.learncodethehardway.org/)
 *   [Google's C++ Class](https://developers.google.com/edu/c++/)
@@ -80,11 +79,10 @@ C/C++
 *   [C++ Primer, 5th Edition](http://it-ebooks.info/book/1256/)
 *   [Bay Area C++ Meetup](http://www.meetup.com/SF-Bay-Area-Cpp/)
 
-
-Data
+#####Data
 *   [Code School - Try R](https://www.codeschool.com/courses/try-r)
 
-Misc
+#####Misc
 *   [Code School - Discover Chrome DevTools](http://discover-devtools.codeschool.com/)
 *   [Linux Fundamentals, Part 1](http://www.funtoo.org/wiki/Linux_Fundamentals,_Part_1)
 *   [VIM Adventures](http://vim-adventures.com/)
@@ -93,7 +91,7 @@ Misc
 *   [Stack Overflow](http://stackoverflow.com/)
 *   [CodeEval - Evaluations Made Easy](http://codeeval.com/)
 
-Schools
+#####Schools
 *   [Coursera](https://www.coursera.org/courses)
 *   MIT OpenCourseWare
   * [all Electrical Engineering and Computer Science courses](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
@@ -103,7 +101,7 @@ Schools
 *   [Codecademy.com](http://www.codecademy.com/#!/exercise/0)
 *   [Stanford School of Engineering](http://see.stanford.edu/see/courseinfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111)
 
-Interview Practice
+#####Interview Practice
 * [Javascript](http://www.toptal.com/javascript/interview-questions) Long list of interview questions with answers.
 * [Java](http://www.javacodegeeks.com/2014/04/java-interview-questions-and-answers.html) "Ultimate" list of Java interview questions and answers.
 * [Python](http://www.careerride.com/python-interview-questions.aspx) 50 Python interview questions and answers.
