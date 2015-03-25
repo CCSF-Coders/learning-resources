@@ -99,6 +99,7 @@ learning-resources
 *   [Code School - Try R](https://www.codeschool.com/courses/try-r)
 
 #####Misc
+*   [Exercism](http://www.exercism.io/) -- practice problems in 22+ languages with crowdsourced code reviews (also open source project)
 *   [Code School - Discover Chrome DevTools](http://discover-devtools.codeschool.com/)
 *   [Linux Fundamentals, Part 1](http://www.funtoo.org/wiki/Linux_Fundamentals,_Part_1)
 *   [VIM Adventures](http://vim-adventures.com/)
