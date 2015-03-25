@@ -14,9 +14,12 @@ learning-resources
 *   [Computer Science: Free Courses](http://www.openculture.com/computer_science_free_courses)
 
 #####Git
-*   [Code School - Try Git](http://www.codeschool.com/courses/try-git)
+*   [Code School - Try Git](https://try.github.io/levels/1/challenges/1) (in-browser)
 *   [Pro Git](http://git-scm.com/book)
 *   [Atlassian Git Tutorials](https://www.atlassian.com/git)
+*   [Learn Git Branching](http://pcottle.github.io/learnGitBranching/) (interactive tutorial)
+*   [Git for Non-Developers](http://anitacheng.com/git-for-non-developers)
+*   [Git-it - intro Git/Github tutorial](https://github.com/jlord/git-it) (includes Traditional Chinese version, requires local install)
 
 #####HTML/CSS
 *   [35 Useful CSS3 Tutorials To Boost Your Skills](http://www.tripwiremagazine.com/2012/06/css3-tutorials.html)
