@@ -13,13 +13,20 @@ learning-resources
 *   [Developing Apps for iOS (SD)](http://itunes.apple.com/itunes-u/developing-apps-for-ios-sd/id395631522)
 *   [Computer Science: Free Courses](http://www.openculture.com/computer_science_free_courses)
 
-#####Git
-*   [Code School - Try Git](https://try.github.io/levels/1/challenges/1) (in-browser)
-*   [Pro Git](http://git-scm.com/book)
-*   [Atlassian Git Tutorials](https://www.atlassian.com/git)
-*   [Learn Git Branching](http://pcottle.github.io/learnGitBranching/) (interactive tutorial)
-*   [Git for Non-Developers](http://anitacheng.com/git-for-non-developers)
-*   [Git-it - intro Git/Github tutorial](https://github.com/jlord/git-it) (includes Traditional Chinese version, requires local install)
+#####C/C++
+*   [C/C++ Reference](http://en.cppreference.com/w/)
+*   [Learn C The Hard Way](http://c.learncodethehardway.org/)
+*   Women Who Code study group C curriculum: [https://github.com/LearnToCodeC/CProgrammingCurriculum#learn-to-code-c](https://github.com/LearnToCodeC/CProgrammingCurriculum#learn-to-code-c)
+*   MIT Open Courseware C/C++ classes:
+  * [6.087 Practical Programming in C](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/) (taught January IAP 2010)
+  * [6.088 Intro to C Memory Mgmt and C++ Object-Oriented Prog.](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/) (taught January IAP 2010)
+  * [6.096 Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (taught January IAP 2011)
+  * [6.S096 Introduction to C and C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-introduction-to-c-and-c-january-iap-2013) (taught January IAP 2013)
+  * [6.S096 Effective Programming in C and C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/) (taught January IAP 2014)
+*   [Google's C++ Class](https://developers.google.com/edu/c++/)
+*   [Learn C++](http://www.learncpp.com/)
+*   [C++ Primer, 5th Edition](http://it-ebooks.info/book/1256/)
+*   [Bay Area C++ Meetup](http://www.meetup.com/SF-Bay-Area-Cpp/)
 
 #####HTML/CSS
 *   [35 Useful CSS3 Tutorials To Boost Your Skills](http://www.tripwiremagazine.com/2012/06/css3-tutorials.html)
@@ -80,23 +87,22 @@ learning-resources
 *   [Pragmatic studio Rails course $$](http://pragmaticstudio.com/rails)
 *   [One month Rails $$](https://onemonth.com/courses/one-month-rails)
 
-#####C/C++
-*   [C/C++ Reference](http://en.cppreference.com/w/)
-*   [Learn C The Hard Way](http://c.learncodethehardway.org/)
-*   Women Who Code study group C curriculum: [https://github.com/LearnToCodeC/CProgrammingCurriculum#learn-to-code-c](https://github.com/LearnToCodeC/CProgrammingCurriculum#learn-to-code-c)
-*   MIT Open Courseware C/C++ classes:
-  * [6.087 Practical Programming in C](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/) (taught January IAP 2010)
-  * [6.088 Intro to C Memory Mgmt and C++ Object-Oriented Prog.](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/) (taught January IAP 2010)
-  * [6.096 Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (taught January IAP 2011)
-  * [6.S096 Introduction to C and C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-introduction-to-c-and-c-january-iap-2013) (taught January IAP 2013)
-  * [6.S096 Effective Programming in C and C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/) (taught January IAP 2014)
-*   [Google's C++ Class](https://developers.google.com/edu/c++/)
-*   [Learn C++](http://www.learncpp.com/)
-*   [C++ Primer, 5th Edition](http://it-ebooks.info/book/1256/)
-*   [Bay Area C++ Meetup](http://www.meetup.com/SF-Bay-Area-Cpp/)
+#####Git
+*   [Code School - Try Git](https://try.github.io/levels/1/challenges/1) (in-browser)
+*   [Pro Git](http://git-scm.com/book)
+*   [Atlassian Git Tutorials](https://www.atlassian.com/git)
+*   [Learn Git Branching](http://pcottle.github.io/learnGitBranching/) (interactive tutorial)
+*   [Git for Non-Developers](http://anitacheng.com/git-for-non-developers)
+*   [Git-it - intro Git/Github tutorial](https://github.com/jlord/git-it) (includes Traditional Chinese version, requires local install)
 
 #####Data
 *   [Code School - Try R](https://www.codeschool.com/courses/try-r)
+
+#####Interview Practice
+* [Javascript](http://www.toptal.com/javascript/interview-questions) Long list of interview questions with answers.
+* [Java](http://www.javacodegeeks.com/2014/04/java-interview-questions-and-answers.html) "Ultimate" list of Java interview questions and answers.
+* [Python](http://www.careerride.com/python-interview-questions.aspx) 50 Python interview questions and answers.
+* [C/C++](http://www.indiabix.com/technical/c/) Hundreds of C/C++ interview questions and answers.
 
 #####Misc
 *   [Exercism](http://www.exercism.io/) -- practice problems in 22+ languages with crowdsourced code reviews (also open source project)
@@ -117,10 +123,3 @@ learning-resources
 *   [Learn Web Design, Web Development, and iOS Development](http://teamtreehouse.com/)
 *   [Codecademy.com](http://www.codecademy.com/#!/exercise/0)
 *   [Stanford School of Engineering](http://see.stanford.edu/see/courseinfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111)
-
-#####Interview Practice
-* [Javascript](http://www.toptal.com/javascript/interview-questions) Long list of interview questions with answers.
-* [Java](http://www.javacodegeeks.com/2014/04/java-interview-questions-and-answers.html) "Ultimate" list of Java interview questions and answers.
-* [Python](http://www.careerride.com/python-interview-questions.aspx) 50 Python interview questions and answers.
-* [C/C++](http://www.indiabix.com/technical/c/) Hundreds of C/C++ interview questions and answers.
-
