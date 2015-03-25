@@ -38,6 +38,18 @@ learning-resources
   * [Google Java Style](https://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
 *   [Secure Coding Guidelines for Java SE](http://www.oracle.com/technetwork/java/seccodeguide-139067.html)
 
+#####Javascript
+*   [Eloquent Javascript](http://eloquentjavascript.net/) (open-source-licensed online book)
+*   [Jeff Cunningham's AngularJS-Learning repo](https://github.com/jmcunningham/AngularJS-Learning/)
+*   [Egghead.io](https://egghead.io/tags/free) - training videos (AngularJS, React, JavaScript, Node.js, and more)
+*   [Codecademy's JavaScript track](http://www.codecademy.com/en/tracks/javascript)
+*   Khan Academy's Javascript classes: 
+  * [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)
+  * [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)
+  * [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
+  * [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)
+*   [Nodeschool.io](http://nodeschool.io)
+
 #####Python
 *   [Python Introduction - Google's Python Class](http://code.google.com/edu/languages/google-python-class/introduction.html)
 *   [Learn Python with Games](http://www.checkio.org/)
