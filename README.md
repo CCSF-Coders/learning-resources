@@ -12,6 +12,7 @@ learning-resources
 *   [$ cheat browse http://cheat.errtheblog.com](http://cheat.errtheblog.com/)
 *   [Developing Apps for iOS (SD)](http://itunes.apple.com/itunes-u/developing-apps-for-ios-sd/id395631522)
 *   [Computer Science: Free Courses](http://www.openculture.com/computer_science_free_courses)
+*   GirlDevelopItSF's [Web Development Teaching Materials](http://www.teaching-materials.org/)
 
 #####C/C++
 *   [C/C++ Reference](http://en.cppreference.com/w/)
