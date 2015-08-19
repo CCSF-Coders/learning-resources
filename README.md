@@ -96,6 +96,7 @@ learning-resources
 *   [Learn Git Branching](http://pcottle.github.io/learnGitBranching/) (interactive tutorial)
 *   [Git for Non-Developers](http://anitacheng.com/git-for-non-developers)
 *   [Git-it - intro Git/Github tutorial](https://github.com/jlord/git-it) (includes Traditional Chinese version, requires local install)
+*   [GitHub - Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) (pdf)
 
 #####Data
 *   [Code School - Try R](https://www.codeschool.com/courses/try-r)
