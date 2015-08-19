@@ -56,6 +56,8 @@ learning-resources
   * [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
   * [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)
 *   [Nodeschool.io](http://nodeschool.io)
+*   [Mozilla's Javascript tutorials](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+*   [freeCodeCamp](http://www.freecodecamp.com/)
 
 #####Python
 *   [Python Introduction - Google's Python Class](http://code.google.com/edu/languages/google-python-class/introduction.html)
