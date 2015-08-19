@@ -99,6 +99,10 @@ learning-resources
 #####Data
 *   [Code School - Try R](https://www.codeschool.com/courses/try-r)
 
+#####InfoSec
+* [Getting Started in Information Security](https://www.reddit.com/r/netsec/wiki/start) (Reddit wiki)
+* [Hey we run five InfoSec consulting companies - Ask Us Anything](https://www.reddit.com/r/netsec/comments/202bsf/hey_guys_we_run_five_infosec_consulting_companies/?sort=old&limit=500) (Reddit AMA)
+
 #####Interview Practice
 * [Javascript](http://www.toptal.com/javascript/interview-questions) Long list of interview questions with answers.
 * [Java](http://www.javacodegeeks.com/2014/04/java-interview-questions-and-answers.html) "Ultimate" list of Java interview questions and answers.
