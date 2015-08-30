@@ -89,6 +89,15 @@ learning-resources
 *   [Pragmatic studio Rails course $$](http://pragmaticstudio.com/rails)
 *   [One month Rails $$](https://onemonth.com/courses/one-month-rails)
 
+#####Go
+*   [Go Language Tour](http://tour.golang.org)
+*   [Effective Go](https://golang.org/doc/effective_go.html)
+*   [An Introduction to programming in Go](https://www.golang-book.com/books/intro)
+*   [Learning to Program in Go Video Series](https://www.youtube.com/playlist?list=PLei96ZX_m9sVSEXWwZi8uwd2vqCpEm4m6)
+*   [Pluralsight Classes for Go](http://www.pluralsight.com/tag/golang)
+*   [CodeMentor.io Go Tutorial](https://www.codementor.io/go)
+*   [Learn Go in Y minutes](http://learnxinyminutes.com/docs/go/)
+
 #####Git
 *   [Code School - Try Git](https://try.github.io/levels/1/challenges/1) (in-browser)
 *   [Pro Git](http://git-scm.com/book)
