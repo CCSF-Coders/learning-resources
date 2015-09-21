@@ -116,6 +116,10 @@ learning-resources
 * [Hey we run five InfoSec consulting companies - Ask Us Anything (2014 edition) ](https://www.reddit.com/r/netsec/comments/202bsf/hey_guys_we_run_five_infosec_consulting_companies/?sort=old&limit=500) (Reddit AMA)
 * [Hey we run five InfoSec consulting companies - Ask Us Anything (2015 edition)](https://www.reddit.com/r/netsec/comments/3k9ul8/we_run_five_infosec_consulting_companies_ask_us/?sort=qa&limit=500) (Reddit AMA)
 
+#####Internet of Things (IoT)
+* [BuildItSecure.ly](http://builditsecure.ly/#resources) - security researchers curating a learn-how-to-build-IoT-securely site ([DEF CON talk introducing initiative](https://youtu.be/WHdU4LutBGU) - initiative mentioned at 37:36)
+* [http://iot.eclipse.org/getting-started](http://iot.eclipse.org/getting-started) - includes Connected Greenhouse tutorial (uses Java language)
+
 #####Getting Internships/Jobs
 * [Javascript](http://www.toptal.com/javascript/interview-questions) Long list of interview questions with answers.
 * [Java](http://www.javacodegeeks.com/2014/04/java-interview-questions-and-answers.html) "Ultimate" list of Java interview questions and answers.
