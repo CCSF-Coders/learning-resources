@@ -89,6 +89,9 @@ learning-resources
 *   [Pragmatic studio Rails course $$](http://pragmaticstudio.com/rails)
 *   [One month Rails $$](https://onemonth.com/courses/one-month-rails)
 
+#####SQL
+*   Codecademy's [Learn SQL](https://www.codecademy.com/courses/learn-sql) - uses sqlite, so good intro, but will be slightly different if you move to MySQL, Oracle SQL, SQL Server, etc
+
 #####Go
 *   [Go Language Tour](http://tour.golang.org)
 *   [Effective Go](https://golang.org/doc/effective_go.html)
