@@ -36,6 +36,17 @@ learning-resources
 *   [BuildingWebApps.com](http://www.buildingwebapps.com/)
 *   [Build Cross Browser Extensions in Minutes - Crossrider.com](http://crossrider.com/)
 
+#####iOS
+*   CodePath:
+  *  [CodePath iOS Guides](http://guides.codepath.com/ios)
+  *  [CodePath iOS Guides for Designers](http://guides.codepath.com/ios/Designer-Guides)
+  *  [CodePath YouTube playlists](https://www.youtube.com/channel/UCvrvJyrx7ebh02wuOId11HA/playlists)
+*   Code School's [Try Objective-C](https://www.codeschool.com/courses/try-objective-c)
+*   [Ray Wenderlich tutorials](http://www.raywenderlich.com/)
+*   Paul Hegarty's Stanford class CS193p on iTunes U:
+  *   [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099)
+  *   [Developing iOS 7 Apps with Objective-C](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550)
+
 #####Java
 *   [Head First Java](http://www.headfirstlabs.com/books/hfjava/)
 *   [CodingBat Java practice problems](http://codingbat.com/java)
