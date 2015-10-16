@@ -47,7 +47,8 @@ learning-resources
 
 #####Javascript
 *   [Eloquent Javascript](http://eloquentjavascript.net/) (open-source-licensed online book)
-*   [Jeff Cunningham's AngularJS-Learning repo](https://github.com/jmcunningham/AngularJS-Learning/)
+*   [w3schools.com/js](http://www.w3schools.com/js/)
+*   [TutorialsPoint's Javascript](http://www.tutorialspoint.com/javascript/index.htm)
 *   [Egghead.io](https://egghead.io/tags/free) - training videos (AngularJS, React, JavaScript, Node.js, and more)
 *   [Codecademy's JavaScript track](http://www.codecademy.com/en/tracks/javascript)
 *   Khan Academy's Javascript classes: 
@@ -58,6 +59,8 @@ learning-resources
 *   [Nodeschool.io](http://nodeschool.io)
 *   [Mozilla's Javascript tutorials](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 *   [freeCodeCamp](http://www.freecodecamp.com/)
+*   [Jeff Cunningham's AngularJS-Learning repo](https://github.com/jmcunningham/AngularJS-Learning/)   
+*   [Square's Intro to D3.JS](http://square.github.io/intro-to-d3/)
 
 #####Python
 *   [Python Introduction - Google's Python Class](http://code.google.com/edu/languages/google-python-class/introduction.html)
