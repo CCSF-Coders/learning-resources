@@ -103,6 +103,21 @@ learning-resources
 *   [Pragmatic studio Rails course $$](http://pragmaticstudio.com/rails)
 *   [One month Rails $$](https://onemonth.com/courses/one-month-rails)
 
+#####Selenium
+*   [Selenium Official Documentation](http://www.seleniumhq.org/docs/)
+*   [Selenium Tutorial by ToolsQA](http://www.toolsqa.com/selenium-webdriver)
+*   [Selenium Automation Practice Form](http://www.toolsqa.com/automation-practice-form)
+*   [The Web Testing Handbook](http://www.amazon.com/The-Testing-Handbook-Steven-Splaine/dp/0970436300)
+
+#####Smalltalk
+
+* [GNU Smalltalk User's Guide](https://www.gnu.org/software/smalltalk/manual/html_node/Tutorial.html)
+* [smalltalk dot org](http://www.smalltalk.org/smalltalk/learning.html)
+* [Computer Programming using GNU Smalltalk](http://www.canol.info/books/computer_programming_using_gnu_smalltalk/)
+* [Smalltalk Cheatsheet](http://www.angelfire.com/tx4/cus/notes/smalltalk.html)
+* [Smalltalk-72 Manual](http://www.bitsavers.org/pdf/xerox/parc/techReports/Smalltalk-72_Instruction_Manual_Mar76.pdf)
+* [BYTE: A Special issue on Smalltalk](https://archive.org/details/byte-magazine-1981-08)
+
 #####SQL
 *   Codecademy's [Learn SQL](https://www.codecademy.com/courses/learn-sql) - uses sqlite, so good intro, but will be slightly different if you move to MySQL, Oracle SQL, SQL Server, etc
 
