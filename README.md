@@ -187,6 +187,7 @@ learning-resources
 *   [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 *   [How to Prepare for Your First Hackathon](https://docs.google.com/presentation/d/1TY-W05wqkRsbYcQwT1NU8Ko6VaQvICUUb324fPiRzGM/edit#slide=id.p)
 *   [Five Tips for the New Graduate on Landing a Job in Tech](http://www.informit.com/articles/article.aspx?p=2147508)
+*   [An Unconventional Guide for Getting a Software Engineering Job](http://www.juliahgrace.com/blog/2015/4/9/an-unconventional-guide-for-getting-a-software-engineering-job)
 *   [Don't Call Yourself a Programmer](http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
 *   [Getting into Game Programming](https://www.facebook.com/ccsfcoders/posts/502443839797048)
 *   [The (CS) Ph.D. Grind](http://pgbovine.net/PhD-grind-tldr.htm)
