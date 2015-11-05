@@ -155,6 +155,7 @@ learning-resources
 * [/dev/ttys0 Blog](http://www.devttys0.com/blog/) - awesome blog on hacking embedded devices
 
 #####Internet of Things (IoT)
+* AWS Loft Talk [An Engineer's Tour of the Internet of Things](https://www.youtube.com/watch?v=yElH0mGzEkE) (Sep 2015 video)
 * [BuildItSecure.ly](http://builditsecure.ly/#resources) - security researchers curating a learn-how-to-build-IoT-securely site ([DEF CON talk introducing initiative](https://youtu.be/WHdU4LutBGU) - initiative mentioned at 37:36)
 * [http://iot.eclipse.org/getting-started](http://iot.eclipse.org/getting-started) - includes Connected Greenhouse tutorial (uses Java language)
 
