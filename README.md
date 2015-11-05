@@ -200,6 +200,5 @@ learning-resources
 *   [The (CS) Ph.D. Grind](http://pgbovine.net/PhD-grind-tldr.htm)
 *   [Venture Capital panel](https://www.youtube.com/watch?v=KZONYSjTiyY)
 *   [Advice on Giving Tech Talks](https://www.youtube.com/watch?v=yE67bo7dmbY&feature=youtu.be) (mid-career development tool)
-*   [180 Websites in 180
-*   Days](http://blog.jenniferdewalt.com/post/62998082815/after-180-websites-im-ready-to-start-the-rest-of)
+*   [180 Websites in 180 Days](http://blog.jenniferdewalt.com/post/62998082815/after-180-websites-im-ready-to-start-the-rest-of)
 *   [Cyber Wizard Institute](http://cyber.wizard.institute/)
