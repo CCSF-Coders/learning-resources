@@ -188,6 +188,7 @@ learning-resources
 *   [Codecademy.com](http://www.codecademy.com/#!/exercise/0)
 *   [Stanford School of Engineering](http://see.stanford.edu/see/courseinfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111)
 *   [Aquent Gymnasium](http://gymnasium.aquent.com/) -- mostly web dev courses, created by staffing firm ([FastCompany article](http://www.fastcompany.com/3024661/innovation-agents/hacking-hack-schools-to-make-them-work))
+*   [Cyber Wizard Institute](http://cyber.wizard.institute/)
 
 #####Advice (let's keep this section small / tightly curated)
 *   [Write Code Every Day](http://ejohn.org/blog/write-code-every-day/)
@@ -201,4 +202,4 @@ learning-resources
 *   [Venture Capital panel](https://www.youtube.com/watch?v=KZONYSjTiyY)
 *   [Advice on Giving Tech Talks](https://www.youtube.com/watch?v=yE67bo7dmbY&feature=youtu.be) (mid-career development tool)
 *   [180 Websites in 180 Days](http://blog.jenniferdewalt.com/post/62998082815/after-180-websites-im-ready-to-start-the-rest-of)
-*   [Cyber Wizard Institute](http://cyber.wizard.institute/)
+
