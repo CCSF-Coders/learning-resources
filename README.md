@@ -35,6 +35,7 @@ learning-resources
 *   [W3Schools Online Web Tutorials](http://www.w3schools.com/)
 *   [BuildingWebApps.com](http://www.buildingwebapps.com/)
 *   [Build Cross Browser Extensions in Minutes - Crossrider.com](http://crossrider.com/)
+*   [Mozilla Developer Network (MDN) Learning the web](https://developer.mozilla.org/en-US/Learn)
 
 #####iOS
 *   CodePath:
@@ -200,3 +201,4 @@ learning-resources
 *   [Venture Capital panel](https://www.youtube.com/watch?v=KZONYSjTiyY)
 *   [Advice on Giving Tech Talks](https://www.youtube.com/watch?v=yE67bo7dmbY&feature=youtu.be) (mid-career development tool)
 *   [180 Websites in 180 Days](http://blog.jenniferdewalt.com/post/62998082815/after-180-websites-im-ready-to-start-the-rest-of)
+*   [Cyber Wizard Institute](http://cyber.wizard.institute/)
