@@ -144,11 +144,18 @@ learning-resources
 *   [Code School - Try R](https://www.codeschool.com/courses/try-r)
 
 #####InfoSec
-* [Getting Started in Information Security](https://www.reddit.com/r/netsec/wiki/start) (Reddit wiki)
-* [Hey we run five InfoSec consulting companies - Ask Us Anything (2014 edition) ](https://www.reddit.com/r/netsec/comments/202bsf/hey_guys_we_run_five_infosec_consulting_companies/?sort=old&limit=500) (Reddit AMA)
-* [Hey we run five InfoSec consulting companies - Ask Us Anything (2015 edition)](https://www.reddit.com/r/netsec/comments/3k9ul8/we_run_five_infosec_consulting_companies_ask_us/?sort=qa&limit=500) (Reddit AMA)
+* Reddit /r/netsec/ resources:
+    * [Getting Started in Information Security](https://www.reddit.com/r/netsec/wiki/start) (Reddit wiki)
+    * [Hey we run five InfoSec consulting companies - Ask Us Anything (2014 edition) ](https://www.reddit.com/r/netsec/comments/202bsf/hey_guys_we_run_five_infosec_consulting_companies/?sort=old&limit=500) (Reddit AMA)
+    * [Hey we run five InfoSec consulting companies - Ask Us Anything (2015 edition)](https://www.reddit.com/r/netsec/comments/3k9ul8/we_run_five_infosec_consulting_companies_ask_us/?sort=qa&limit=500) (Reddit AMA)
+* Hacking Challenges / Demo Apps
+    * [OverTheWire WarGames](http://overthewire.org/wargames/)
+    * [Matasano Crypto Challenges](http://cryptopals.com/)
+    * [OWASP Security Shepard](https://www.owasp.org/index.php/OWASP_Security_Shepherd) -- web and mobile application security training platform
+        * [Sam Bowne](https://twitter.com/sambowne) has a working installation you can play against here: https://shepherd.samsclass.info
 * Capture The Flag (CTF) links:
     * [CTF Field Guide](http://trailofbits.github.io/ctf/index.html)
+    * [picoCTF](https://picoctf.com/) -- Carnegie Mellon University's CTF training app
     * [https://ctftime.org/](https://ctftime.org/) - archive of old Capture The Flag (CTF) competitions and calendar of upcoming ones
 * Bug Bounty links:
     * [Bug Bounties 101 - Getting Started](https://fin1te.net/articles/bug-bounties-101-getting-started/)
