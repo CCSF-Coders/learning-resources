@@ -173,6 +173,7 @@ learning-resources
 * [Python](http://www.careerride.com/python-interview-questions.aspx) 50 Python interview questions and answers.
 * [C/C++](http://www.indiabix.com/technical/c/) Hundreds of C/C++ interview questions and answers.
 * [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
+    * [Gayle McDowell talk](https://www.youtube.com/watch?v=rEJzOhC5ZtQ) at CUSEC (university student conference)
 * [Hacker Rank](https://www.hackerrank.com/) (solve challenges, get recruited)
 
 #####Misc
