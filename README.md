@@ -151,12 +151,12 @@ learning-resources
 * Hacking Challenges / Demo Apps
     * [OverTheWire WarGames](http://overthewire.org/wargames/)
     * [Matasano Crypto Challenges](http://cryptopals.com/)
+    * [OWASP Security Shepard](https://www.owasp.org/index.php/OWASP_Security_Shepherd) -- web and mobile application security training platform
+        * [Sam Bowne](https://twitter.com/sambowne) has a working installation you can play against here: https://shepherd.samsclass.info
     * [Aman Hardikar's Mind Maps](http://www.amanhardikar.com/mindmaps.html) -- check them all out, but especially:
         * [Pen Testing Practice Lab - Vulnerable Apps/Systems](http://www.amanhardikar.com/mindmaps/Practice.html)
         * [Useful Browser Plugins for Pen Testing / Web App Security Testing](http://www.amanhardikar.com/mindmaps/BrowserPlugins.html)
         * [Forensics Practice Lab - Forensic Challenges](http://www.amanhardikar.com/mindmaps/ForensicChallenges.html)
-    * [OWASP Security Shepard](https://www.owasp.org/index.php/OWASP_Security_Shepherd) -- web and mobile application security training platform
-        * [Sam Bowne](https://twitter.com/sambowne) has a working installation you can play against here: https://shepherd.samsclass.info
 * Capture The Flag (CTF) links:
     * [CTF Field Guide](http://trailofbits.github.io/ctf/index.html)
     * [picoCTF](https://picoctf.com/) -- Carnegie Mellon University's CTF training app
