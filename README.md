@@ -189,6 +189,7 @@ learning-resources
 *   [Meetup.com](http://www.meetup.com/find/events/tech/?allMeetups=false&radius=25&userFreeform=San+Francisco%2C+CA&mcName=San+Francisco%2C+CA) (link goes to find-Tech-meetups-around-SF-by-date page, instead of main page)
 *   [Stack Overflow](http://stackoverflow.com/)
 *   [CodeEval - Evaluations Made Easy](http://codeeval.com/)
+*   [Learn Salesforce with Trailhead](https://developer.salesforce.com/trailhead)
 
 #####Schools
 *   [Coursera](https://www.coursera.org/courses)
