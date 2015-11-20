@@ -142,6 +142,24 @@ learning-resources
 #####Data
 *   [Code School - Try R](https://www.codeschool.com/courses/try-r)
 
+#####Game Development
+*   [Brian Cronin talk about Game Programming](https://www.youtube.com/watch?v=jDx-tj48iZI)
+*   [Extra Credits game design YouTube vodcast](https://www.youtube.com/user/ExtraCreditz/playlists)
+*   [Gamasutra ("The Art & Business of Making Games") postmortems](http://www.gamasutra.com/features/postmortem)
+*   [OneGameAMonth.com](http://www.onegameamonth.com/) -- free online game dev bootcamp & game jam enthusiast’s club
+*   [SF Game Development Group](http://www.meetup.com/sfgamedevelopers/) meetup
+*   Game Jams:
+    * [globalgamejam.org](http://globalgamejam.org)
+    * [ludumdare.com](http://ludumdare.com)
+*   Tools for making your own games:
+    * [love2d.org](love2d.org) -- definitely start with this one -- Lua
+    * [unity3d.com](unity3d.com) -- most commonly used at game jams, etc
+    * [ogre3d.org](ogre3d.org) -- a library / graphics engine -- C++
+    * bulletphysics -- a library -- C++ 
+*   Artwork available online under a [Creative Commons License](http://www.lostgarden.com/2007/03/lost-garden-license.html) (more fun to make game with cool graphics):
+    * Daniel Cook, Lost Garden
+        * http://www.lostgarden.com/search/label/free%20game%20graphics
+
 #####InfoSec
 * Reddit /r/netsec/ resources:
     * [Getting Started in Information Security](https://www.reddit.com/r/netsec/wiki/start) (Reddit wiki)
