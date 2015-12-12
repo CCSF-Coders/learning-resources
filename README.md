@@ -28,6 +28,15 @@ learning-resources
 *   [C++ Primer, 5th Edition](http://it-ebooks.info/book/1256/)
 *   [Bay Area C++ Meetup](http://www.meetup.com/SF-Bay-Area-Cpp/)
 
+#####Go
+*   [Go Language Tour](http://tour.golang.org)
+*   [Effective Go](https://golang.org/doc/effective_go.html)
+*   [An Introduction to programming in Go](https://www.golang-book.com/books/intro)
+*   [Learning to Program in Go Video Series](https://www.youtube.com/playlist?list=PLei96ZX_m9sVSEXWwZi8uwd2vqCpEm4m6)
+*   [Pluralsight Classes for Go](http://www.pluralsight.com/tag/golang)
+*   [CodeMentor.io Go Tutorial](https://www.codementor.io/go)
+*   [Learn Go in Y minutes](http://learnxinyminutes.com/docs/go/)
+
 #####HTML/CSS
 *   [35 Useful CSS3 Tutorials To Boost Your Skills](http://www.tripwiremagazine.com/2012/06/css3-tutorials.html)
 *   [Project Euler](http://projecteuler.net/)
@@ -122,15 +131,6 @@ learning-resources
 #####SQL
 *   Codecademy's [Learn SQL](https://www.codecademy.com/courses/learn-sql) - uses sqlite, so good intro, but will be slightly different if you move to MySQL, Oracle SQL, SQL Server, etc
 
-#####Go
-*   [Go Language Tour](http://tour.golang.org)
-*   [Effective Go](https://golang.org/doc/effective_go.html)
-*   [An Introduction to programming in Go](https://www.golang-book.com/books/intro)
-*   [Learning to Program in Go Video Series](https://www.youtube.com/playlist?list=PLei96ZX_m9sVSEXWwZi8uwd2vqCpEm4m6)
-*   [Pluralsight Classes for Go](http://www.pluralsight.com/tag/golang)
-*   [CodeMentor.io Go Tutorial](https://www.codementor.io/go)
-*   [Learn Go in Y minutes](http://learnxinyminutes.com/docs/go/)
-
 #####Git
 *   [Code School - Try Git](https://try.github.io/levels/1/challenges/1) (in-browser)
 *   [Pro Git](http://git-scm.com/book)
@@ -189,6 +189,17 @@ learning-resources
 * AWS Loft Talk [An Engineer's Tour of the Internet of Things](https://www.youtube.com/watch?v=yElH0mGzEkE) (Sep 2015 video)
 * [BuildItSecure.ly](http://builditsecure.ly/#resources) - security researchers curating a learn-how-to-build-IoT-securely site ([DEF CON talk introducing initiative](https://youtu.be/WHdU4LutBGU) - initiative mentioned at 37:36)
 * [http://iot.eclipse.org/getting-started](http://iot.eclipse.org/getting-started) - includes Connected Greenhouse tutorial (uses Java language)
+ 
+---
+~**System Administration**~
+
+#####Docker
+* Intro to Docker workshop (skip slides 26-29 and instead follow the [docs.docker.com](https://docs.docker.com/) setup guide):  http://slides.dckr.info:88/DockerSlides.pdf
+* Docker Orchestration workshop:  https://github.com/jpetazzo/orchestration-workshop
+  * fork this repo down to your computer, and then open this file in a browser:  https://github.com/jpetazzo/orchestration-workshop/blob/master/www/htdocs/index.html
+* [Docker, Linux Containers (LXC), and Security](http://www.slideshare.net/jpetazzo/docker-linux-containers-lxc-and-security) slides from 2014 talk
+
+---
 
 #####Getting Internships/Jobs
 * [Javascript](http://www.toptal.com/javascript/interview-questions) Long list of interview questions with answers.
