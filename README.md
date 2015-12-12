@@ -72,6 +72,7 @@ learning-resources
 *   [freeCodeCamp](http://www.freecodecamp.com/)
 *   [Jeff Cunningham's AngularJS-Learning repo](https://github.com/jmcunningham/AngularJS-Learning/)   
 *   [Square's Intro to D3.JS](http://square.github.io/intro-to-d3/)
+*   2015 survey of conventions, tools & libraries used by Javascript devs:  https://ponyfoo.com/articles/javascript-developer-survey-results
 
 #####Python
 *   [Python Introduction - Google's Python Class](http://code.google.com/edu/languages/google-python-class/introduction.html)
