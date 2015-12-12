@@ -55,6 +55,7 @@ learning-resources
 *   Paul Hegarty's Stanford class CS193p on iTunes U:
   *   [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099)
   *   [Developing iOS 7 Apps with Objective-C](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550)
+*   [IBM Swift Sandbox](http://swiftlang.ng.bluemix.net/#/repl)
 
 #####Java
 *   [Head First Java](http://www.headfirstlabs.com/books/hfjava/)
