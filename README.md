@@ -182,6 +182,7 @@ learning-resources
     * [picoCTF](https://picoctf.com/) -- Carnegie Mellon University's CTF training app
     * [https://ctftime.org/](https://ctftime.org/) - archive of old Capture The Flag (CTF) competitions and calendar of upcoming ones
     * [Collaborating to Win](https://www.youtube.com/watch?v=6X3xSsoqoFw) -- presentation on Collaborative CTF Infrastructure (video)
+        * write up of talk with links:  http://lockboxx.blogspot.com/2015/11/cooperative-infrastructure-for-security.html
 * Bug Bounty links:
     * [Bug Bounties 101 - Getting Started](https://fin1te.net/articles/bug-bounties-101-getting-started/)
     * [Bugcrowd blog](https://blog.bugcrowd.com/) - keep up w/ security news & in touch with bug bounty community
