@@ -114,7 +114,7 @@ learning-resources
 *   [Pragmatic studio Rails course $$](http://pragmaticstudio.com/rails)
 *   [One month Rails $$](https://onemonth.com/courses/one-month-rails)
 *   To connect with the SF Ruby/Rails community:
-    * attend & then volunteer at RailsBridge events:  https://www.bridgetroll.org/
+    * attend & then volunteer at [RailsBridge](http://railsbridge.org/) events:  https://www.bridgetroll.org/
     * contribute to the open source event-management site BridgeTroll:  https://github.com/railsbridge/bridge_troll
         * this is a great RoR app that is actively developed by SF developers - experience + mentorship + networking 
 
