@@ -94,6 +94,8 @@ learning-resources
 *   [Codecademy is now teaching Python!](http://www.codecademy.com/tracks/python)
 *   [CodingBat Python practice problems](http://codingbat.com/python)
 *   [NewCoder.io](http://newcoder.io/) - tutorials (data viz, APIs, web scraping, etc) 
+*   [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+*   [Full Stack Python](https://www.fullstackpython.com/) - explains Python web development concepts and links to tutorials
 
 #####Ruby
 *   [Codecademy - Ruby](http://www.codecademy.com/tracks/ruby)
