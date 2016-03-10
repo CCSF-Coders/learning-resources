@@ -158,6 +158,11 @@ learning-resources
 
 #####Data
 *   [Code School - Try R](https://www.codeschool.com/courses/try-r)
+*   Coursera - 
+    *   [The Data Scientist's Toolbox](https://www.coursera.org/course/datascitoolbox) (John Hopkin's University)
+*   edX:
+    *   [Explore statistics with R](https://www.edx.org/course/explore-statistics-r-kix-kiexplorx-0)
+    *   [Big Data in Education](https://www.edx.org/course/big-data-education-teacherscollegex-bde1x) (Teachers College | Columbia University)
 
 #####Game Development
 *   [Brian Cronin talk about Game Programming](https://www.youtube.com/watch?v=jDx-tj48iZI)
