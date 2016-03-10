@@ -145,12 +145,18 @@ learning-resources
 
 #####Git
 *   [Code School - Try Git](https://try.github.io/levels/1/challenges/1) (in-browser)
+*   [Learn Git Branching](http://pcottle.github.io/learnGitBranching/) (interactive tutorial)
 *   [Pro Git](http://git-scm.com/book)
 *   [Atlassian Git Tutorials](https://www.atlassian.com/git)
-*   [Learn Git Branching](http://pcottle.github.io/learnGitBranching/) (interactive tutorial)
+*   GitHub Training
+    *   [GitHub guides](https://guides.github.com/)
+    *   [Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) (pdf)
+    *   [Open Source Pull Requests](https://training.github.com/classnotes/2014-05-28-free-class-pull-requests)
 *   [Git for Non-Developers](http://anitacheng.com/git-for-non-developers)
 *   [Git-it - intro Git/Github tutorial](https://github.com/jlord/git-it) (includes Traditional Chinese version, requires local install)
-*   [GitHub - Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) (pdf)
+*   [Understanding Git Conceptually](http://www.sbf5.com/~cduan/technical/git/)
+*   [Good Commit Messages](http://chris.beams.io/posts/git-commit/)
+*   [Lightning Talk: Do Your Commit Messages Suck](https://www.youtube.com/watch?v=8YjSty6bfog)
 
 #####Algorithms
 * [Project Euler](http://projecteuler.net/)
