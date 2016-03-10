@@ -152,6 +152,10 @@ learning-resources
 *   [Git-it - intro Git/Github tutorial](https://github.com/jlord/git-it) (includes Traditional Chinese version, requires local install)
 *   [GitHub - Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) (pdf)
 
+#####Algorithms
+* [Project Euler](http://projecteuler.net/)
+* [Visualgo](http://visualgo.net/) - animated visualizations for algorithms
+
 #####Data
 *   [Code School - Try R](https://www.codeschool.com/courses/try-r)
 
