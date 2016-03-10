@@ -113,6 +113,10 @@ learning-resources
 *   [Learn Ruby with the EdgeCase Ruby Koans](http://rubykoans.com/)
 *   [Pragmatic studio Rails course $$](http://pragmaticstudio.com/rails)
 *   [One month Rails $$](https://onemonth.com/courses/one-month-rails)
+*   To connect with the SF Ruby/Rails community:
+    * attend & then volunteer at RailsBridge events:  https://www.bridgetroll.org/
+    * contribute to the open source event-management site BridgeTroll:  https://github.com/railsbridge/bridge_troll
+        * this is a great RoR app that is actively developed by SF developers - experience + mentorship + networking 
 
 #####Selenium
 *   [Selenium Official Documentation](http://www.seleniumhq.org/docs/)
