@@ -29,6 +29,7 @@ learning-resources
   *   [C++ Today](http://www.oreilly.com/programming/free/c++-today.csp) (2015) - free O'Reilly eBook
   *   [C++ Primer, 5th Edition](http://it-ebooks.info/book/1256/) (2012)
 *   [Bay Area C++ Meetup](http://www.meetup.com/SF-Bay-Area-Cpp/)
+*   [Infographic: C++ Facts](http://blog.jetbrains.com/clion/2015/07/infographics-cpp-facts-before-clion/) (2015)
 
 #####Go
 *   [Go Language Tour](http://tour.golang.org)
