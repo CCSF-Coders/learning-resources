@@ -30,6 +30,10 @@ learning-resources
   *   [C++ Primer, 5th Edition](http://it-ebooks.info/book/1256/) (2012)
 *   [Bay Area C++ Meetup](http://www.meetup.com/SF-Bay-Area-Cpp/)
 *   [Infographic: C++ Facts](http://blog.jetbrains.com/clion/2015/07/infographics-cpp-facts-before-clion/) (2015)
+*   [Bjarne Stroustrup's Homepage]() (creator of C++) 
+  *   [C++ FAQ](http://www.stroustrup.com/bs_faq.html)
+  *   [applications](http://www.stroustrup.com/applications.html) written in C++
+  *   some [C++ compilers](http://www.stroustrup.com/compilers.html)
 
 #####Go
 *   [Go Language Tour](http://tour.golang.org)
