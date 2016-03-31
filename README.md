@@ -165,6 +165,7 @@ learning-resources
 *   [Understanding Git Conceptually](http://www.sbf5.com/~cduan/technical/git/)
 *   [Good Commit Messages](http://chris.beams.io/posts/git-commit/)
 *   [Lightning Talk: Do Your Commit Messages Suck](https://www.youtube.com/watch?v=8YjSty6bfog)
+*   [Git Basics: Cleaning up Excess Branches](http://blog.thefrontiergroup.com.au/2012/07/git-basics-cleaning-up-excess-branches/)
 
 #####Algorithms
 * [Project Euler](http://projecteuler.net/)
