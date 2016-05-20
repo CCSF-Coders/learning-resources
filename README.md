@@ -125,6 +125,7 @@ learning-resources
 *   [Learn Ruby with the EdgeCase Ruby Koans](http://rubykoans.com/)
 *   [Pragmatic studio Rails course $$](http://pragmaticstudio.com/rails)
 *   [One month Rails $$](https://onemonth.com/courses/one-month-rails)
+*   [The Rails 4 Way](http://f.jamo.io/rails4way.pdf)
 *   To connect with the SF Ruby/Rails community:
     * attend & then volunteer at [RailsBridge](http://railsbridge.org/) events:  https://www.bridgetroll.org/
     * contribute to the open source event-management site BridgeTroll:  https://github.com/railsbridge/bridge_troll
