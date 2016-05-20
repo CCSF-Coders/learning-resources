@@ -14,6 +14,7 @@ learning-resources
 *   GirlDevelopItSF's [Web Development Teaching Materials](http://www.teaching-materials.org/)
 
 #####C/C++
+*   [K&R, The C Programming Language](http://www.ime.usp.br/~pf/Kernighan-Ritchie/C-Programming-Ebook.pdf)
 *   [C/C++ Reference](http://en.cppreference.com/w/)
 *   [Learn C The Hard Way](http://c.learncodethehardway.org/)
 *   [Google's C++ Class](https://developers.google.com/edu/c++/)
