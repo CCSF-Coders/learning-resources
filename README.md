@@ -63,7 +63,7 @@ learning-resources
 *   Code School's [Try Objective-C](https://www.codeschool.com/courses/try-objective-c)
 *   [Ray Wenderlich tutorials](http://www.raywenderlich.com/)
 *   Paul Hegarty's Stanford class CS193p on iTunes U:
-  *   [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099)
+  *   [Developing iOS 9 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961)
   *   [Developing iOS 7 Apps with Objective-C](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550)
 *   [IBM Swift Sandbox](http://swiftlang.ng.bluemix.net/#/repl)
 
