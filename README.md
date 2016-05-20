@@ -171,6 +171,8 @@ learning-resources
 #####Algorithms
 * [Project Euler](http://projecteuler.net/)
 * [Visualgo](http://visualgo.net/) - animated visualizations for algorithms
+* MIT Open Courseware Algorithm Classes
+  * [Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 
 #####Data
 *   [Code School - Try R](https://www.codeschool.com/courses/try-r)
