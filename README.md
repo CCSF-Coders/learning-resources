@@ -249,13 +249,20 @@ learning-resources
 ---
 
 #####Getting Internships/Jobs
-* [Javascript](http://www.toptal.com/javascript/interview-questions) Long list of interview questions with answers.
-* [Java](http://www.javacodegeeks.com/2014/04/java-interview-questions-and-answers.html) "Ultimate" list of Java interview questions and answers.
-* [Python](http://www.careerride.com/python-interview-questions.aspx) 50 Python interview questions and answers.
-* [C/C++](http://www.indiabix.com/technical/c/) Hundreds of C/C++ interview questions and answers.
+* (place Algorithm guides in that section:  https://github.com/CCSF-Coders/learning-resources#algorithms)
 * [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
     * [Gayle McDowell talk](https://www.youtube.com/watch?v=rEJzOhC5ZtQ) at CUSEC (university student conference)
 * [Hacker Rank](https://www.hackerrank.com/) (solve challenges, get recruited)
+* Programming Interview preparation guides:
+    * https://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview
+    * http://programmers.stackexchange.com/questions/756/where-can-i-find-programming-puzzles-and-challenges
+    * https://github.com/kimberli/interviews
+    * https://github.com/andreis/interview
+* Language-specific:
+    * [C/C++](http://www.indiabix.com/technical/c/) Hundreds of C/C++ interview questions and answers.
+    * [Java](http://www.javacodegeeks.com/2014/04/java-interview-questions-and-answers.html) "Ultimate" list of Java interview questions and answers (2014).
+    * [Javascript](http://www.toptal.com/javascript/interview-questions) Long list of interview questions with answers.
+    * [Python](http://www.careerride.com/python-interview-questions.aspx) 50 Python interview questions and answers (2014).
 
 #####Misc
 *   [Exercism](http://www.exercism.io/) -- practice problems in 22+ languages with crowdsourced code reviews (also open source project)
