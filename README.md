@@ -257,6 +257,7 @@ learning-resources
 * Programming Interview preparation guides:
     * https://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview
     * http://programmers.stackexchange.com/questions/756/where-can-i-find-programming-puzzles-and-challenges
+    * https://github.com/jdsutton/Technical-Interview-Megarepo
     * https://github.com/kimberli/interviews
     * https://github.com/andreis/interview
 * Language-specific:
