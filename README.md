@@ -247,6 +247,8 @@ learning-resources
 ---
 ~**System Administration**~
 
+* [Ops School Curriculum](http://www.opsschool.org)
+
 #####Docker
 * Intro to Docker workshop (skip slides 26-29 and instead follow the [docs.docker.com](https://docs.docker.com/) setup guide):  http://slides.dckr.info:88/DockerSlides.pdf
 * Docker Orchestration workshop:  https://github.com/jpetazzo/orchestration-workshop
