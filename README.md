@@ -261,6 +261,8 @@ learning-resources
 * (place Algorithm guides in that section:  https://github.com/CCSF-Coders/learning-resources#algorithms)
 * [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
     * [Gayle McDowell talk](https://www.youtube.com/watch?v=rEJzOhC5ZtQ) at CUSEC (university student conference)
+    * Gayle McDowell [Ask Me Anything](https://www.youtube.com/watch?v=1fqxMuPmGak) (YouTube video)
+        * see the comment that annotates all the questions (if you click the timecode it will jump to that section of the video)
 * [Hacker Rank](https://www.hackerrank.com/) (solve challenges, get recruited)
 * Programming Interview preparation guides:
     * https://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview
