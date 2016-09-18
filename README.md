@@ -250,6 +250,7 @@ learning-resources
 * [Ops School Curriculum](http://www.opsschool.org)
 
 #####Docker
+* [Docker Tutorials and Labs](https://github.com/docker/labs) -- community-maintained in Docker's own GitHub account
 * Intro to Docker workshop (skip slides 26-29 and instead follow the [docs.docker.com](https://docs.docker.com/) setup guide):  http://slides.dckr.info:88/DockerSlides.pdf
 * Docker Orchestration workshop:  https://github.com/jpetazzo/orchestration-workshop
   * fork this repo down to your computer, and then open this file in a browser:  https://github.com/jpetazzo/orchestration-workshop/blob/master/www/htdocs/index.html
