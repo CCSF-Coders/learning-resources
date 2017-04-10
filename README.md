@@ -195,6 +195,7 @@ learning-resources
 *   edX:
     *   [Explore statistics with R](https://www.edx.org/course/explore-statistics-r-kix-kiexplorx-0)
     *   [Big Data in Education](https://www.edx.org/course/big-data-education-teacherscollegex-bde1x) (Teachers College | Columbia University)
+* (*see SciPy in [Python](https://github.com/CCSF-Coders/learning-resources#python) section*)    
 
 ##### Game Development
 *   [Brian Cronin talk about Game Programming](https://www.youtube.com/watch?v=jDx-tj48iZI)
