@@ -1,7 +1,7 @@
 learning-resources
 ==================
 
-#####General Programming
+##### General Programming
 *   [Learn to Program, by Chris Pine](http://pine.fm/LearnToProgram/)&nbsp;-&nbsp;[http://it-ebooks.info/<wbr>book/36/](http://it-ebooks.info/book/36/)
 *   [5 Ways To Learn Code From The Comfort Of Your Own Browser | TechCrunch](http://techcrunch.com/2012/08/21/5-ways-to-learn-code-from-the-comfort-of-your-own-browser)
 *   [Also, Why I'm learning to code](http://also.roybahat.com/post/11574823708/why-im-learning-to-code)
@@ -13,7 +13,7 @@ learning-resources
 *   [Computer Science: Free Courses](http://www.openculture.com/computer_science_free_courses)
 *   GirlDevelopItSF's [Web Development Teaching Materials](http://www.teaching-materials.org/)
 
-#####C/C++
+##### C/C++
 *   [K&R, The C Programming Language](http://www.ime.usp.br/~pf/Kernighan-Ritchie/C-Programming-Ebook.pdf)
 *   [C/C++ Reference](http://en.cppreference.com/w/)
 *   [Learn C The Hard Way](http://c.learncodethehardway.org/)
@@ -37,7 +37,7 @@ learning-resources
   *   some [C++ compilers](http://www.stroustrup.com/compilers.html)
 *   YouTube playlists of CppCon conference talks:  https://www.youtube.com/user/CppCon
 
-#####Go
+##### Go
 *   [Go Language Tour](http://tour.golang.org)
 *   [Effective Go](https://golang.org/doc/effective_go.html)
 *   [An Introduction to programming in Go](https://www.golang-book.com/books/intro)
@@ -48,7 +48,7 @@ learning-resources
 *   [GoBridge](http://golangbridge.org/)
 *   [Go Forum](https://forum.golangbridge.org/categories)
 
-#####HTML/CSS
+##### HTML/CSS
 *   [35 Useful CSS3 Tutorials To Boost Your Skills](http://www.tripwiremagazine.com/2012/06/css3-tutorials.html)
 *   [Project Euler](http://projecteuler.net/)
 *   [W3Schools Online Web Tutorials](http://www.w3schools.com/)
@@ -57,7 +57,7 @@ learning-resources
 *   [Mozilla Developer Network (MDN) Learning the web](https://developer.mozilla.org/en-US/Learn)
 *   [Udemy: Learn the Foundations of HTML](https://blog.udemy.com/learn-html-learn-the-foundations-of-html/)
 
-#####iOS
+##### iOS
 *   CodePath:
   *  [CodePath iOS Guides](http://guides.codepath.com/ios)
   *  [CodePath iOS Guides for Designers](http://guides.codepath.com/ios/Designer-Guides)
@@ -69,7 +69,7 @@ learning-resources
   *   [Developing iOS 7 Apps with Objective-C](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550)
 *   [IBM Swift Sandbox](http://swiftlang.ng.bluemix.net/#/repl)
 
-#####Java
+##### Java
 *   [Head First Java](http://www.headfirstlabs.com/books/hfjava/)
 *   [CodingBat Java practice problems](http://codingbat.com/java)
 *   Java Style Guidelines
@@ -78,7 +78,7 @@ learning-resources
   * [Google Java Style](https://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
 *   [Secure Coding Guidelines for Java SE](http://www.oracle.com/technetwork/java/seccodeguide-139067.html)
 
-#####Javascript
+##### Javascript
 *   [Eloquent Javascript](http://eloquentjavascript.net/) (open-source-licensed online book)
 *   [w3schools.com/js](http://www.w3schools.com/js/)
 *   [TutorialsPoint's Javascript](http://www.tutorialspoint.com/javascript/index.htm)
@@ -96,7 +96,7 @@ learning-resources
 *   [Square's Intro to D3.JS](http://square.github.io/intro-to-d3/)
 *   2015 survey of conventions, tools & libraries used by Javascript devs:  https://ponyfoo.com/articles/javascript-developer-survey-results
 
-#####Python
+##### Python
 *   [Python Introduction - Google's Python Class](http://code.google.com/edu/languages/google-python-class/introduction.html)
 *   [Learn Python with Games](http://www.checkio.org/)
 *   [Coursera Python](https://www.coursera.org/course/interactivepython)
@@ -106,7 +106,7 @@ learning-resources
 *   [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 *   [Full Stack Python](https://www.fullstackpython.com/) - explains Python web development concepts and links to tutorials
 
-#####Ruby
+##### Ruby
 *   [Codecademy - Ruby](http://www.codecademy.com/tracks/ruby)
 *   [Dev bootcamp - by bullets](http://devbootcampbullets.tumblr.com/)
 *   [Ruby in 100 minutes - Jumpstart Lab Curriculum](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html)
@@ -133,13 +133,13 @@ learning-resources
     * contribute to the open source event-management site BridgeTroll:  https://github.com/railsbridge/bridge_troll
         * this is a great RoR app that is actively developed by SF developers - experience + mentorship + networking 
 
-#####Selenium
+##### Selenium
 *   [Selenium Official Documentation](http://www.seleniumhq.org/docs/)
 *   [Selenium Tutorial by ToolsQA](http://www.toolsqa.com/selenium-webdriver)
 *   [Selenium Automation Practice Form](http://www.toolsqa.com/automation-practice-form)
 *   [The Web Testing Handbook](http://www.amazon.com/The-Testing-Handbook-Steven-Splaine/dp/0970436300)
 
-#####Smalltalk
+##### Smalltalk
 
 * [GNU Smalltalk User's Guide](https://www.gnu.org/software/smalltalk/manual/html_node/Tutorial.html)
 * [smalltalk dot org](http://www.smalltalk.org/smalltalk/learning.html)
@@ -148,13 +148,13 @@ learning-resources
 * [Smalltalk-72 Manual](http://www.bitsavers.org/pdf/xerox/parc/techReports/Smalltalk-72_Instruction_Manual_Mar76.pdf)
 * [BYTE: A Special issue on Smalltalk](https://archive.org/details/byte-magazine-1981-08)
 
-#####SQL
+##### SQL
 *   Codecademy's [Learn SQL](https://www.codecademy.com/courses/learn-sql) - uses sqlite, so good intro, but will be slightly different if you move to MySQL, Oracle SQL, SQL Server, etc
 *   Khan Academy's [Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql)
 *   [Try SQL - Code School](https://www.codeschool.com/courses/try-sql)
 *   [Common MySQL Queries](http://www.artfulsoftware.com/infotree/queries.php)
 
-#####Git
+##### Git
 *   [Code School - Try Git](https://try.github.io/levels/1/challenges/1) (in-browser)
 *   [Learn Git Branching](http://pcottle.github.io/learnGitBranching/) (interactive tutorial)
 *   [Pro Git](http://git-scm.com/book)
@@ -170,13 +170,13 @@ learning-resources
 *   [Lightning Talk: Do Your Commit Messages Suck](https://www.youtube.com/watch?v=8YjSty6bfog)
 *   [Git Basics: Cleaning up Excess Branches](http://blog.thefrontiergroup.com.au/2012/07/git-basics-cleaning-up-excess-branches/)
 
-#####Algorithms
+##### Algorithms
 * [Project Euler](http://projecteuler.net/)
 * [Visualgo](http://visualgo.net/) - animated visualizations for algorithms
 * MIT Open Courseware Algorithm Classes
   * [Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 
-#####Data
+##### Data
 *   [Code School - Try R](https://www.codeschool.com/courses/try-r)
 *   Coursera - 
     *   [The Data Scientist's Toolbox](https://www.coursera.org/course/datascitoolbox) (John Hopkin's University)
@@ -184,7 +184,7 @@ learning-resources
     *   [Explore statistics with R](https://www.edx.org/course/explore-statistics-r-kix-kiexplorx-0)
     *   [Big Data in Education](https://www.edx.org/course/big-data-education-teacherscollegex-bde1x) (Teachers College | Columbia University)
 
-#####Game Development
+##### Game Development
 *   [Brian Cronin talk about Game Programming](https://www.youtube.com/watch?v=jDx-tj48iZI)
 *   [Extra Credits game design YouTube vodcast](https://www.youtube.com/user/ExtraCreditz/playlists)
 *   [Gamasutra ("The Art & Business of Making Games") postmortems](http://www.gamasutra.com/features/postmortem)
@@ -202,7 +202,7 @@ learning-resources
     * Daniel Cook, Lost Garden
         * http://www.lostgarden.com/search/label/free%20game%20graphics
 
-#####InfoSec
+##### InfoSec
 * Reddit /r/netsec/ resources:
     * [Getting Started in Information Security](https://www.reddit.com/r/netsec/wiki/start) (Reddit wiki)
     * [Hey we run five InfoSec consulting companies - Ask Us Anything (2014 edition) ](https://www.reddit.com/r/netsec/comments/202bsf/hey_guys_we_run_five_infosec_consulting_companies/?sort=old&limit=500) (Reddit AMA)
@@ -239,17 +239,17 @@ learning-resources
     * https://securelist.com/blog/opinions/67928/the-art-of-finding-cyber-dinosaur-skeletons
 * Creative Commons licensed training material for computer security:  http://opensecuritytraining.info
 
-#####Internet of Things (IoT)
+##### Internet of Things (IoT)
 * AWS Loft Talk [An Engineer's Tour of the Internet of Things](https://www.youtube.com/watch?v=yElH0mGzEkE) (Sep 2015 video)
 * [BuildItSecure.ly](http://builditsecure.ly/#resources) - security researchers curating a learn-how-to-build-IoT-securely site ([DEF CON talk introducing initiative](https://youtu.be/WHdU4LutBGU) - initiative mentioned at 37:36)
 * [http://iot.eclipse.org/getting-started](http://iot.eclipse.org/getting-started) - includes Connected Greenhouse tutorial (uses Java language)
  
 ---
-~**System Administration**~
+**System Administration**
 
 * [Ops School Curriculum](http://www.opsschool.org)
 
-#####Docker
+##### Docker
 * [Docker Tutorials and Labs](https://github.com/docker/labs) -- community-maintained in Docker's own GitHub account
 * Intro to Docker workshop (skip slides 26-29 and instead follow the [docs.docker.com](https://docs.docker.com/) setup guide):  http://slides.dckr.info:88/DockerSlides.pdf
 * Docker Orchestration workshop:  https://github.com/jpetazzo/orchestration-workshop
@@ -258,7 +258,7 @@ learning-resources
 
 ---
 
-#####Getting Internships/Jobs
+##### Getting Internships/Jobs
 * (place Algorithm guides in that section:  https://github.com/CCSF-Coders/learning-resources#algorithms)
 * [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
     * [Gayle McDowell talk](https://www.youtube.com/watch?v=rEJzOhC5ZtQ) at CUSEC (university student conference)
@@ -277,7 +277,7 @@ learning-resources
     * [Javascript](http://www.toptal.com/javascript/interview-questions) Long list of interview questions with answers.
     * [Python](http://www.careerride.com/python-interview-questions.aspx) 50 Python interview questions and answers (2014).
 
-#####Misc
+##### Misc
 *   [Exercism](http://www.exercism.io/) -- practice problems in 22+ languages with crowdsourced code reviews (also open source project)
 *   [Code School - Discover Chrome DevTools](http://discover-devtools.codeschool.com/)
 *   [Linux Fundamentals, Part 1](http://www.funtoo.org/wiki/Linux_Fundamentals,_Part_1)
@@ -288,7 +288,7 @@ learning-resources
 *   [CodeEval - Evaluations Made Easy](http://codeeval.com/)
 *   [Learn Salesforce with Trailhead](https://developer.salesforce.com/trailhead)
 
-#####Schools
+##### Schools
 *   [Coursera](https://www.coursera.org/courses)
 *   MIT OpenCourseWare
   * [all Electrical Engineering and Computer Science courses](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
@@ -300,7 +300,7 @@ learning-resources
 *   [Aquent Gymnasium](http://gymnasium.aquent.com/) -- mostly web dev courses, created by staffing firm ([FastCompany article](http://www.fastcompany.com/3024661/innovation-agents/hacking-hack-schools-to-make-them-work))
 *   [Cyber Wizard Institute](http://cyber.wizard.institute/)
 
-#####Advice (let's keep this section small / tightly curated)
+##### Advice (let's keep this section small / tightly curated)
 *   [Write Code Every Day](http://ejohn.org/blog/write-code-every-day/)
 *   [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 *   [How to Prepare for Your First Hackathon](https://docs.google.com/presentation/d/1TY-W05wqkRsbYcQwT1NU8Ko6VaQvICUUb324fPiRzGM/edit#slide=id.p)
