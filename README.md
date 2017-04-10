@@ -100,11 +100,23 @@ learning-resources
 *   [Python Introduction - Google's Python Class](http://code.google.com/edu/languages/google-python-class/introduction.html)
 *   [Learn Python with Games](http://www.checkio.org/)
 *   [Coursera Python](https://www.coursera.org/course/interactivepython)
+*   [Udacity - Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088) - In this free course you will learn the fundamentals of back-end web development and build a data-driven web app with Python.
 *   [Codecademy is now teaching Python!](http://www.codecademy.com/tracks/python)
 *   [CodingBat Python practice problems](http://codingbat.com/python)
 *   [NewCoder.io](http://newcoder.io/) - tutorials (data viz, APIs, web scraping, etc) 
+*   [Merscythe: Adventures With the Codue] (http://www.speltechnologies.com) - An adventure story-based game for teaching Python programming to middle and high school students. Designed for accessibility and customizability.
 *   [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 *   [Full Stack Python](https://www.fullstackpython.com/) - explains Python web development concepts and links to tutorials
+*   [Getting Started with SciPy](https://scipy.org/getting-started.html)
+    * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) - O'Reilly ebook
+    * SciPy Conference videos:  [SciPy 2016](https://www.youtube.com/watch?v=OB1reY6IX-o&list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6), [EuroSciPy 2015](https://www.youtube.com/watch?v=q9E0csBVcwQ&list=PLYx7XA2nY5GeQCCugyvtnHMVLdhYlrRxH), [SciPy 2015](https://www.youtube.com/watch?v=xAoljeRJ3lU&list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu), [EuroSciPy 2014](https://www.youtube.com/watch?v=DObmPAtuNw0&list=PLYx7XA2nY5GfavGAILg08spnrR7QWLimi), [SciPy 2014](https://www.youtube.com/watch?v=vWkgEddb4-A&list=PLYx7XA2nY5GfuhCvStxgbynFNrxr3VFog), [SciPy 2013](https://www.youtube.com/watch?v=NOm1zA_Cats&list=PLYx7XA2nY5GeTWcUQTbXVdllyp-Ie3r-y)
+        * [2015 Keynote: My Data Journey with Python](https://www.youtube.com/watch?v=kHdkFyGCxiY&list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu&index=16)
+        * [2015 Keynote: State of the Tools](https://www.youtube.com/watch?v=5GlNDD7qbP4&t=26s&list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu&index=6)
+*   Flask - a lightweight Python web framework
+    * http://flask.pocoo.org/docs/0.10/tutorial/
+    * [Discover Flask](http://discoverflask.com) - full stack web development with flask
+    * [Flaskr Tutorial](https://github.com/mjhea0/flaskr-tdd) - Intro to Flask, Test Driven Development, and jQuery
+
 
 ##### Ruby
 *   [Codecademy - Ruby](http://www.codecademy.com/tracks/ruby)
